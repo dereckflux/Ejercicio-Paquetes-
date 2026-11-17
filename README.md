@@ -22,7 +22,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/SEDE-NOCHE_EUROPEA-3B82F6?style=for-the-badge&labelColor=000814" alt="SEDE: NOCHE EUROPEA">
-<img src="https://img.shields.io/badge/CAPIT%C3%81N-DERECK_PAREDES-3B82F6?style=for-the-badge&labelColor=000814" alt="CAPITÁN: DERECK PAREDES">
+<img src="https://img.shields.io/badge/PLANTILLA-5_JUGADORES-3B82F6?style=for-the-badge&labelColor=000814" alt="PLANTILLA: 5 JUGADORES">
 <img src="https://img.shields.io/badge/MISI%C3%93N-ENV%C3%8DO_DE_PAQUETES-3B82F6?style=for-the-badge&labelColor=000814" alt="MISIÓN: ENVÍO DE PAQUETES">
 
 <br>
@@ -35,14 +35,14 @@
 
 <br><br>
 
-**Bienvenido a la noche de Champions, capitán.**<br>
+**Bienvenidos a la noche de Champions, equipo.**<br>
 Este repositorio contiene la solución del **Ejercicio Paquetes**: un sistema de envío de paquetes que considera la **zona** (local o nacional), el **peso** entre 0.1 y 30 kg, el **tipo de servicio** (normal o exprés), si el cliente es **frecuente** y un **recargo** por exceso de 10 kg.<br>
 El ejercicio incluye análisis, algoritmo, pseudocódigo, diagrama de flujo, **10 pruebas de escritorio** y codificación en **Java** y **C++**.
 
-**Un capitán. Dos finalistas. Diez partidos. Cero errores de compilación.**
+**Cinco jugadores. Dos finalistas. Diez partidos. Cero errores de compilación.**
 
 [🏟️ Expediente](#expediente) ·
-[⭐ Capitán](#capitan) ·
+[⭐ Plantilla](#plantilla) ·
 [📋 Fase de grupos](#fase-de-grupos) ·
 [🧠 Táctica](#tactica) ·
 [⚽ Partidos](#partidos) ·
@@ -75,19 +75,23 @@ Como en el torneo más grande de Europa, aquí nadie entra a la cancha sin pasar
 
 ---
 
-<a name="capitan"></a>
+<a name="plantilla"></a>
 
-## ⭐ El capitán · Integrante y rol
+## ⭐ La plantilla · Integrantes y roles
 
-Esta final se juega con un solo capitán en la cancha:
+Esta final no se gana con un solo jugador: cinco titulares salen a la cancha, cada uno en su posición.
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1300&color=E2E8F0&background=0A1A4F&center=true&vCenter=true&width=860&height=52&lines=Capitan+unico+%E2%80%BA+PAREDES+ACOSTA+DERECK+SHAIR+%E2%80%BA+Java+y+C%2B%2B" width="100%" alt="Integrante del repositorio">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1300&color=E2E8F0&background=0A1A4F&center=true&vCenter=true&width=860&height=52&lines=Paredes+Acosta+Dereck+Shair;Casillas+Ochoa+Antony+Sebastian;Calderon+Carvajal+Fher+Dorian;Ashanga+Yumbo+Brishy+Anahy;Sanchez+Bastidas+Karina+Paola" width="100%" alt="Integrantes del equipo">
 </div>
 
-| N.º | Integrante | Rol en la final | Componentes |
+| N.º | Jugador | Posición en la cancha | Componente asignado |
 | :---: | :--- | :--- | :--- |
-| **1** | **PAREDES ACOSTA DERECK SHAIR** | **Capitán del Código · Analizar, diseñar, probar y programar** | Análisis, algoritmo, pseudocódigo, diagrama de flujo, 10 pruebas de escritorio y código en **Java** y **C++**. |
+| **1** | **Paredes Acosta Dereck Shair** | **Mediocentro Creador · Modelar** | Análisis de datos: entradas, proceso, salidas y reglas del envío. |
+| **2** | **Casillas Ochoa Antony Sebastian** | **Arquitecto del Medio Campo · Estructurar** | Algoritmo y pseudocódigo del sistema de envíos. |
+| **3** | **Calderon Carvajal Fher Dorian** | **Delantero Goleador · Construir** | Codificación del programa en **Java** y **C++**. |
+| **4** | **Ashanga Yumbo Brishy Anahy** | **Directora de Juego · Orquestar** | Diagrama de flujo y coordinación del documento final. |
+| **5** | **Sanchez Bastidas Karina Paola** | **Guardameta del Torneo · Validar** | Prueba de escritorio con los 10 casos y validación de los límites. |
 
 | Dato | Detalle |
 | :--- | :--- |
@@ -312,7 +316,7 @@ g++ EjercicioPaquetes.cpp -o EjercicioPaquetes
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=1500&color=E2E8F0&background=0A1A4F&center=true&vCenter=true&width=860&height=56&lines=Diez+partidos+jugados.+Diez+resultados+correctos.;El+paquete+llego+a+tiempo+y+el+trofeo+tambien.;Campeones+de+Europa+del+codigo." width="100%" alt="Frases finales">
 
-*«Sonó el pitido final, capitán. Las cuentas cuadraron en los 10 partidos y la orejona ya está en la vitrina.»*
+*«Sonó el pitido final, equipo. Las cuentas cuadraron en los 10 partidos y la orejona ya está en la vitrina.»*
 
 Si llegaste hasta aquí, el estadio entero te aplaude. ⭐🏆⚽🏟️
 
